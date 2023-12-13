@@ -4,3 +4,6 @@
       https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 2. use dataset_creation.ipynb notebook to create new dataset, this notebook will create movie_dict.pkl and similarity.pkl datasets
 3. use app.py to run the webpage
+      to run the app.py use two commands on cmd
+         1. python app.py
+         2. streamlit run app.py
